@@ -34,7 +34,7 @@ const Banners = () => {
                   <div className="image">
                     <img
                       style={{ width: "fit-content" }}
-                      src="https://cdn.dummyjson.com/product-images/32/3.jpg"
+                      src="/src/assets/assets/products/sofa.jpg"
                       alt="photo"
                     />
                   </div>
@@ -55,7 +55,7 @@ const Banners = () => {
                   <div className="image">
                     <img
                       style={{ width: "fit-content" }}
-                      src="https://cdn.dummyjson.com/product-images/44/2.jpg"
+                      src="/src/assets/assets/products/casual.jpg"
                       alt="photo"
                     />
                   </div>
@@ -104,7 +104,7 @@ const Banners = () => {
                 <div className="item">
                   <div className="image">
                     <img
-                      src="https://cdn.dummyjson.com/product-images/16/thumbnail.jpg"
+                      src="/src/assets/assets/products/makeup.jpg"
                       alt="photo"
                     />
                   </div>
@@ -142,7 +142,7 @@ const Banners = () => {
                 <div className="item">
                   <div className="image">
                     <img
-                      src="https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg"
+                      src="/src/assets/assets/products/gadgets.jpg"
                       alt="photo"
                     />
                   </div>
@@ -181,7 +181,7 @@ const Banners = () => {
                 <div className="item">
                   <div className="image">
                     <img
-                      src="https://cdn.dummyjson.com/product-images/97/thumbnail.jpg"
+                      src="/src/assets/assets/products/decor.jpg"
                       alt="photo"
                     />
                   </div>
