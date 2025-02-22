@@ -100,12 +100,11 @@
     "stock": 83,
     "brand": "Apple",
     "category": "laptops",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+    "thumbnail": "/src/assets/assets/products/macbook.jpg",
     "images": [
-      "https://cdn.dummyjson.com/product-images/6/1.png",
-      "https://cdn.dummyjson.com/product-images/6/2.jpg",
-      "https://cdn.dummyjson.com/product-images/6/3.png",
-      "https://cdn.dummyjson.com/product-images/6/4.jpg"
+      "./src/assets/assets/products/macbook1.jpg",
+      "./src/assets/assets/products/macbook2.jpg",
+      "./src/assets/assets/products/macbook3.jpg"
     ]
   },
   {
@@ -119,13 +118,7 @@
     "stock": 50,
     "brand": "Samsung",
     "category": "laptops",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/7/1.jpg",
-      "https://cdn.dummyjson.com/product-images/7/2.jpg",
-      "https://cdn.dummyjson.com/product-images/7/3.jpg",
-      "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
-    ]
+    "thumbnail": "/src/assets/assets/products/galaxy.jpg"
   },
   {
     "id": 8,
@@ -138,12 +131,11 @@
     "stock": 68,
     "brand": "Microsoft Surface",
     "category": "laptops",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg",
+    "thumbnail": "/src/assets/assets/products/microsoft-laptop.jpg",
     "images": [
-      "https://cdn.dummyjson.com/product-images/8/1.jpg",
-      "https://cdn.dummyjson.com/product-images/8/2.jpg",
-      "https://cdn.dummyjson.com/product-images/8/3.jpg",
-      "https://cdn.dummyjson.com/product-images/8/4.jpg"
+      "/src/assets/assets/products/microsoft-laptop1.jpg",
+      "/src/assets/assets/products/microsoft-laptop2.jpg",
+      "/src/assets/assets/products/microsoft-laptop3.jpg"
     ]
   },
   {
@@ -157,13 +149,8 @@
     "stock": 96,
     "brand": "Infinix",
     "category": "laptops",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/9/1.jpg",
-      "https://cdn.dummyjson.com/product-images/9/2.png",
-      "https://cdn.dummyjson.com/product-images/9/3.png",
-      "https://cdn.dummyjson.com/product-images/9/4.jpg"
-    ]
+    "thumbnail": "/src/assets/assets/products/infinix.jpg",
+    "images": ["/src/assets/assets/products/infinix1.jpg"]
   },
   {
     "id": 10,
@@ -176,16 +163,16 @@
     "stock": 89,
     "brand": "HP Pavilion",
     "category": "laptops",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg",
+    "thumbnail": "/src/assets/assets/products/hp.jpg",
     "images": [
-      "https://cdn.dummyjson.com/product-images/10/2.jpg",
-      "https://cdn.dummyjson.com/product-images/10/3.jpg",
-      "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg"
+      "/src/assets/assets/products/hp.jpg",
+      "/src/assets/assets/products/hp1.jpg",
+      "/src/assets/assets/products/hp2.jpg"
     ]
   },
   {
     "id": 11,
-    "title": "perfume Oil",
+    "title": "Brown Perfume Royal Mirage",
     "description": "Mega Discount, Impression of Acqua Gio by GiorgioArmani concentrated attar perfume Oil",
     "price": 13,
     "discountPercentage": 8,
@@ -194,18 +181,18 @@
     "stock": 65,
     "brand": "Impression of Acqua Gio",
     "category": "fragrances",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg",
+    "thumbnail": "/src/assets/assets/products/perfume.jpg",
     "images": [
-      "https://cdn.dummyjson.com/product-images/11/1.jpg",
-      "https://cdn.dummyjson.com/product-images/11/2.jpg",
-      "https://cdn.dummyjson.com/product-images/11/3.jpg",
-      "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg"
+      "/src/assets/assets/products/perfume1.jpg",
+      "/src/assets/assets/products/perfume2.jpg",
+      "/src/assets/assets/products/perfume3.jpg",
+      "/src/assets/assets/products/perfume4.jpg"
     ]
   },
   {
     "id": 12,
-    "title": "Brown Perfume Royal Mirage",
-    "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+    "title": "perfume Oil",
+    "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 30ml",
     "price": 40,
     "discountPercentage": 15,
     "priceAfterDiscount": 34,
@@ -213,12 +200,10 @@
     "stock": 52,
     "brand": "Royal_Mirage",
     "category": "fragrances",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg",
+    "thumbnail": "/src/assets/assets/products/brown.jpg",
     "images": [
-      "https://cdn.dummyjson.com/product-images/12/1.jpg",
-      "https://cdn.dummyjson.com/product-images/12/2.jpg",
-      "https://cdn.dummyjson.com/product-images/12/3.png",
-      "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+      "/src/assets/assets/products/brown1.jpg",
+      "/src/assets/assets/products/brown2.jpg"
     ]
   },
   {
@@ -232,12 +217,11 @@
     "stock": 61,
     "brand": "Fog Scent Xpressio",
     "category": "fragrances",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/13/thumbnail.webp",
+    "thumbnail": "/src/assets/assets/products/fogg.jpg",
+
     "images": [
-      "https://cdn.dummyjson.com/product-images/13/1.jpg",
-      "https://cdn.dummyjson.com/product-images/13/2.png",
-      "https://cdn.dummyjson.com/product-images/13/3.jpg",
-      "https://cdn.dummyjson.com/product-images/13/4.jpg"
+      "/src/assets/assets/products/fogg1.jpg",
+      "/src/assets/assets/products/fogg2.jpg"
     ]
   },
   {
@@ -779,11 +763,11 @@
     "stock": 136,
     "brand": "The Warehouse",
     "category": "mens-shirts",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/54/thumbnail.jpg",
+    "thumbnail": "/src/assets/assets/products/pubg.jpg",
     "images": [
-      "https://cdn.dummyjson.com/product-images/54/1.jpg",
-      "https://cdn.dummyjson.com/product-images/54/2.jpg",
-      "https://cdn.dummyjson.com/product-images/54/thumbnail.jpg"
+      "/src/assets/assets/products/pubg1.jpg",
+      "/src/assets/assets/products/pubg2.jpg",
+      "/src/assets/assets/products/pubg3.jpg"
     ]
   },
   {
@@ -797,11 +781,7 @@
     "stock": 122,
     "brand": "The Warehouse",
     "category": "mens-shirts",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/55/thumbnail.jpg",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/55/1.jpg",
-      "https://cdn.dummyjson.com/product-images/55/thumbnail.jpg"
-    ]
+    "thumbnail": "/src/assets/assets/products/money.jpg"
   },
   {
     "id": 44,
@@ -814,11 +794,12 @@
     "stock": 6,
     "brand": "Sneakers",
     "category": "mens-shoes",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/56/thumbnail.jpg",
+    "thumbnail": "/src/assets/assets/products/sneakers.jpg",
     "images": [
-      "https://cdn.dummyjson.com/product-images/56/1.jpg",
-      "https://cdn.dummyjson.com/product-images/56/2.jpg",
-      "https://cdn.dummyjson.com/product-images/56/thumbnail.jpg"
+      "/src/assets/assets/products/sneakers1.jpg",
+      "/src/assets/assets/products/sneakers2.jpg",
+      "/src/assets/assets/products/sneakers3.jpg",
+      "/src/assets/assets/products/sneakers4.jpg"
     ]
   },
   {
@@ -832,11 +813,11 @@
     "stock": 20,
     "brand": "Rubber",
     "category": "mens-shoes",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/57/thumbnail.jpg",
+    "thumbnail": "/src/assets/assets/products/loafers.jpg",
     "images": [
-      "https://cdn.dummyjson.com/product-images/57/1.jpg",
-      "https://cdn.dummyjson.com/product-images/57/2.jpg",
-      "https://cdn.dummyjson.com/product-images/57/thumbnail.jpg"
+      "/src/assets/assets/products/loafers1.jpg",
+      "/src/assets/assets/products/loafers2.jpg",
+      "/src/assets/assets/products/loafers3.jpg"
     ]
   },
   {
@@ -850,11 +831,13 @@
     "stock": 68,
     "brand": "The Warehouse",
     "category": "mens-shoes",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/58/thumbnail.jpg",
+    "thumbnail": "/src/assets/assets/products/formal-shoes.jpg",
+
     "images": [
-      "https://cdn.dummyjson.com/product-images/58/1.jpg",
-      "https://cdn.dummyjson.com/product-images/58/2.jpg",
-      "https://cdn.dummyjson.com/product-images/58/thumbnail.jpg"
+      "/src/assets/assets/products/formal-shoes1.jpg",
+      "/src/assets/assets/products/formal-shoes2.jpg",
+      "/src/assets/assets/products/formal-shoes3.jpg",
+      "/src/assets/assets/products/formal-shoes4.jpg"
     ]
   },
 
@@ -869,11 +852,11 @@
     "stock": 129,
     "brand": "Sneakers",
     "category": "mens-shoes",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/60/thumbnail.jpg",
+    "thumbnail": "/src/assets/assets/products/converse.jpg",
     "images": [
-      "https://cdn.dummyjson.com/product-images/60/1.jpg",
-      "https://cdn.dummyjson.com/product-images/60/2.jpg",
-      "https://cdn.dummyjson.com/product-images/60/thumbnail.jpg"
+      "/src/assets/assets/products/converse1.jpg",
+      "/src/assets/assets/products/converse2.jpg",
+      "/src/assets/assets/products/converse3.jpg"
     ]
   },
   {
@@ -887,8 +870,12 @@
     "stock": 91,
     "brand": "Naviforce",
     "category": "mens-watches",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/61/thumbnail.jpg",
-    "images": ["https://cdn.dummyjson.com/product-images/61/thumbnail.jpg"]
+    "thumbnail": "/src/assets/assets/products/straps.jpg",
+    "images": [
+      "/src/assets/assets/products/straps1.jpg",
+      "/src/assets/assets/products/straps2.jpg",
+      "/src/assets/assets/products/straps3.jpg"
+    ]
   },
   {
     "id": 49,
@@ -901,10 +888,12 @@
     "stock": 95,
     "brand": "SKMEI 9117",
     "category": "mens-watches",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/62/thumbnail.jpg",
+    "thumbnail": "/src/assets/assets/products/waterproof-watch.jpg",
     "images": [
-      "https://cdn.dummyjson.com/product-images/62/1.jpg",
-      "https://cdn.dummyjson.com/product-images/62/thumbnail.jpg"
+      "/src/assets/assets/products/waterproof-watch1.jpg",
+      "/src/assets/assets/products/waterproof-watch2.jpg",
+      "/src/assets/assets/products/waterproof-watch3.jpg",
+      "/src/assets/assets/products/waterproof-watch4.jpg"
     ]
   },
   {
